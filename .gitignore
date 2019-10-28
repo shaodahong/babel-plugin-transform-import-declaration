@@ -1,0 +1,6 @@
+node_modules/
+*.lock
+*.log
+
+/index.js
+/compiled.js
